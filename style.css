@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #ff758c, #ff7eb3);
+  text-align: center;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: white;
+  color: #ff4d6d;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+input {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 20px;
+}
+
+.top-bar {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
